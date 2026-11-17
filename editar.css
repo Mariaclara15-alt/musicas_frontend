@@ -24,7 +24,7 @@ body {
 .voltar {
     display: inline-block;
     margin-bottom: 18px;
-    color: #5b57e7;
+    color: #e85d9e;
     font-weight: bold;
 }
 
@@ -58,14 +58,14 @@ input {
 }
 
 input:focus {
-    border-color: #5b57e7;
+    border-color: #e85d9e;
 }
 
 #botaoSalvar {
     width: 100%;
     margin-top: 9px;
     padding: 13px;
-    background-color: #5b57d9;
+    background-color: #e85d9e;
     color: #ffffff;
     border: none;
     border-radius: 6px;
@@ -75,7 +75,7 @@ input:focus {
 }
 
 #botaoSalvar:hover {
-    background-color: #4945c4;
+    background-color: #e85d9e;
 }
 
 @media (max-width: 500px) {
